@@ -1,0 +1,41 @@
+ <a>
+ <article>
+ <aside>
+ <b>
+ <details>
+ <em>
+ <figcaption>
+ <figure>
+ <footer>
+ <h1> ao <h6>
+ <header>
+ <i>
+ <img>
+ <main>
+ <mark>
+ <nav>
+ <p>
+ <section>
+ <strong>
+ <sub>
+ <summary>
+ <sup>
+ <time>
+
+Grupo 4 - i, img, b - Gabriel, Gabriele
+Grupo 5 - aside, figure, a - Cauan
+Grupo 7 - figcaption, time, sub - Ian
+Grupo 2 - h1-6, nav, article - Rafael
+Grupo 1 - sup, main, footer - Samuel
+Grupo 6 - mark, header, section - Isabela
+Grupo 8 - summary, strong, em
+Grupo 3 - p, details, head
+
+Grupo 1 - sup, main, footer - Samuel e Lucas
+Grupo 2 - h1-6, nav, article - Rafael e Guilherme
+Grupo 3 - p, details, head - Maria Eduarda e Juliana
+Grupo 4 - i, img, b - Gabriel e Vivian
+Grupo 5 - aside, figure, a - Cauan e  Christopher
+Grupo 6 - mark, header, section - Isabela e Matheus
+Grupo 7 - figcaption, time, sub - Ian e Grabiele
+Grupo 8 - summary, strong, em - Helen e Manoela
