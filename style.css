@@ -1,0 +1,75 @@
+* {
+    /* border: 1px double red; */
+}
+
+html {
+    background-image: url(rm135-jj-01c.jpg);
+    background-size: cover;
+    margin: 5%;
+    margin-bottom: 15%;
+}
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(festa-de-halloween.jpg);
+    /* background-repeat: repeat; */
+    background-size: cover; 
+    background-blend-mode: difference;
+    color: rgba(255, 255, 255, 0.785);
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+nav {
+    border: 1px solid green;
+    /* color: blue; */
+    background-color: rgba(45, 207, 107, 0.406);
+    border-radius: 10px;
+    padding: 20px;
+    /* margin: 10%; */
+}
+
+h2,h3 {
+    color: red;
+}
+
+h3 {
+    font-size: 32px;    
+}
+
+nav a {
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: rgba(82, 163, 82, 0.358);
+    color: white;
+}
+
+nav a:hover {
+    background-color: green;
+}
+
+section {
+    border-bottom: 2px solid orange;
+    margin-bottom: 20px;
+}
+
+article {
+    /* background-color: rgb(255, 254, 185);
+    border-top: 1px dashed green;
+    border-left: 2px solid greenyellow;
+    border-bottom: 3px dotted red; */
+    border: 1px solid rgb(163, 163, 108);    
+    border-radius: 10px;
+    background-color: rgba(247, 222, 94, 0.14);
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(176, 242, 176, 0.193);
+    border-radius: 10px;
+}
